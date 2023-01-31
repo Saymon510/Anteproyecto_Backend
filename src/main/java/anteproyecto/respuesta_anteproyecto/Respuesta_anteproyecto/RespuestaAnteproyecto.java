@@ -1,4 +1,4 @@
-package anteproyecto.respuesta_anteproyecto.Docente;
+package anteproyecto.respuesta_anteproyecto.Respuesta_anteproyecto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -8,7 +8,7 @@ import lombok.Data;
 
 @Entity
 @Data
-public class Docente {
+public class RespuestaAnteproyecto {
  @Id
  private Long id;
  private String convocatoria;

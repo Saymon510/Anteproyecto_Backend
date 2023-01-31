@@ -1,4 +1,4 @@
-package anteproyecto.respuesta_anteproyecto.Coordinador;
+package anteproyecto.respuesta_anteproyecto.Descarga_anteproyecto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -8,7 +8,7 @@ import lombok.Data;
 
 @Entity
 @Data
-public class Coordinator {
+public class DescargaAnteproyecto {
  @Id
  private Long id;
  private String convocatoria;
