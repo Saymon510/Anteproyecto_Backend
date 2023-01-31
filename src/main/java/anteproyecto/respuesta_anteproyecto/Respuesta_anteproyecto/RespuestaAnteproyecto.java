@@ -1,4 +1,4 @@
-package anteproyecto.respuesta_anteproyecto.respuesta_anteproyecto;
+package anteproyecto.respuesta_anteproyecto.Respuesta_anteproyecto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -10,6 +10,7 @@ import lombok.Data;
 @Data
 public class RespuestaAnteproyecto {
  @Id
+ @GeneratedValue(strategy = GenerationType.AUTO)
  private Long id;
  private String convocatoria;
  private String cedula;
