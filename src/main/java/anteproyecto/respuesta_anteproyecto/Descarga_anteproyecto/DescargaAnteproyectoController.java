@@ -1,4 +1,4 @@
-package anteproyecto.respuesta_anteproyecto.Descarga_anteproyecto;
+package anteproyecto.respuesta_anteproyecto.descarga_anteproyecto;
 
 public class DescargaAnteproyectoController {
     
