@@ -1,4 +1,4 @@
-package anteproyecto.respuesta_anteproyecto.Respuesta_anteproyecto;
+package anteproyecto.respuesta_anteproyecto.respuesta_anteproyecto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

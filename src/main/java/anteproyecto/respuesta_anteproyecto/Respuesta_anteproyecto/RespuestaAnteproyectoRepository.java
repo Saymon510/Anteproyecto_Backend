@@ -1,4 +1,4 @@
-package anteproyecto.respuesta_anteproyecto.Respuesta_anteproyecto;
+package anteproyecto.respuesta_anteproyecto.respuesta_anteproyecto;
 
 public class RespuestaAnteproyectoRepository {
     
