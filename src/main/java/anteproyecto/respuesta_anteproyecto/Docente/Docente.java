@@ -11,11 +11,11 @@ import lombok.Data;
 public class Docente {
  @Id
  private Long id;
- private String fecha;
- private String linea_investigacion;
+ private String convocatoria;
+ private String cedula;
+ private String estudiante;
  private String tema;
- private String problema;
- private String objetivo_general;
- private String objetivo_especifico;
- private String justificacion;
+ private String fecha_entrega_anteproyecto;
+ private String Observacion;
+ private String estado;
 }
